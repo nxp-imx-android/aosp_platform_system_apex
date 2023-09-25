@@ -1,0 +1,14 @@
+NXP Software Content Register
+
+--------------------------------------------
+
+Package:                   apex.git
+Outgoing License:          GPL-2.0
+License File:              NOTICE
+Type of content:           source
+Description and comments:  Android Pony EXpress (APEX)
+Release Location:          https://github.com/nxp-imx-android/aosp_platform_system_apex
+Origin:                    NXP (Apache-2.0)
+                           The Android Open Source Project (Apache-2.0) - https://android.googlesource.com/platform/system/apex
+
+--------------------------------------------
